@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ria-voice-app
+    env: python
+    plan: free
+    buildCommand: ""
+    startCommand: gunicorn app:app
