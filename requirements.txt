@@ -1,4 +1,4 @@
 Flask
 gTTS
 gunicorn
-gTTS deep-translator
+deep-translator
